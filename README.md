@@ -35,5 +35,12 @@ npm run dev
 La aplicación estará disponible en:
 👉 http://localhost:5173
 
+## 🌐 Demo
+
+La aplicación está deployada en Netlify y disponible en el siguiente enlace:
+
+🔗 [https://todo-app-victoria.netlify.app/](https://todo-app-victoria.netlify.app/)
+
+
 ✍️ Autor: Victoria López
 📅 2025
